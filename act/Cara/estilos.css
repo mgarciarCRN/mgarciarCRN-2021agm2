@@ -1,0 +1,144 @@
+.cara{
+  width: 350px;
+  height: 500px;
+  background-color: #FFF1BD;
+  border-radius: 50% 50% 50% 50% / 44% 44% 56% 56% ;
+}
+
+.ojo1{
+  width: 70px;
+  height: 50px;
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  left:60px;
+  top: 160px;
+
+}
+
+.ojo2{
+  width: 70px;
+  height: 50px;
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  left:230px;
+  top: 160px;
+}
+
+.nariz{
+  width: 50px;
+  height: 90px;
+  background-color: #E3D08B;
+  border-radius: 50% 50% 50% 50% / 74% 74% 26% 26% ;
+  position: absolute;
+  left:155px;
+  top: 240px;
+}
+
+
+.pupila1{
+  width: 40px;
+  height: 40px;
+  background-color: #B09221;
+  border-radius: 100%;
+  position: absolute;
+  left:75px;
+  top: 165px;
+}
+
+.pupila2{
+  width: 40px;
+  height: 40px;
+  background-color: #B09221;
+  border-radius: 100%;
+  position: absolute;
+  left:244px;
+  top: 165px;
+}
+
+
+
+.lengua{
+  width: 75px;
+  height: 50px;
+  background-color: red;
+  border-radius: 50% 50% 49% 51% / 0% 0% 100% 100% ;
+  position: absolute;
+  left:142px;
+  top: 400px;
+}
+
+
+
+
+.retina1{
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 100%;
+  position: absolute;
+  left:84px;
+  top: 175px;
+}
+
+.retina2{
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 100%;
+  position: absolute;
+  left:253px;
+  top: 175px;
+}
+
+
+.boca{
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  border-radius: 50% 50% 50% 50% / 0% 0% 100% 100% ;
+  position: absolute;
+  left:130px;
+  top:385px;
+}
+.n1{
+  width: 30px;
+  height: 30px;
+  background-color: #E3D08B;
+  border-radius: 100%;
+  position: absolute;
+  left:145px;
+  top: 302px;
+}
+
+.n2{
+  width: 30px;
+  height: 30px;
+  background-color: #E3D08B;
+  border-radius: 100%;
+  position: absolute;
+  left:183px;
+  top: 302px;
+}
+
+
+.z1{
+  width: 20px;
+  height: 10px;
+  background-color: black;
+  border-radius: 52% 48% 50% 50% / 52% 56% 44% 48% ;
+  position: absolute;
+  left:153px;
+  top: 321px;
+}
+
+.z2{
+  width: 20px;
+  height: 10px;
+  background-color: black;
+  border-radius: 52% 48% 50% 50% / 52% 56% 44% 48% ;
+  position: absolute;
+  left:183px;
+  top: 321px;
+}

@@ -1,0 +1,57 @@
+body{
+  background-color: #B97FFF;
+}
+h1{
+  font-family: cursive;
+}
+p{
+  font-size: 25px;
+
+}
+
+div{
+  width: 100px;
+  height: 100px;
+  padding: 3px;
+  margin: 10px;
+  background-color: red;
+  font-size: 20px;
+  font-family:inherit;
+  text-align: center;
+
+}
+#uno
+{
+  background-color: #D398CC;
+  font-weight: bold;
+}
+
+
+#dos{
+
+background-color: #AFFF7C;
+
+
+}
+#tres{
+background-color: #98CBD2;
+border-radius: 55px;
+margin-top: 40px;
+margin-bottom: 55px;
+border: dashed pink 5px;
+
+
+}
+#cuatro{
+background-color: #DEB583;
+border-radius: 25px;
+margin-left: 75px;
+margin-top:90;
+margin-bottom: 65px;
+
+}
+
+.class 1
+.class 2
+.class 3
+.class 4
